@@ -12,6 +12,10 @@ I'm a software engineering diploma student in Malaysia. I build complete, workin
 
 **[Ohrin](https://github.com/adamafzainizam/Ohrin)**: a local Python/ML tool for guitarists and producers who learn by ear. Loop and slow a passage, see what changes, and get cautious instrument, pulse and chord candidates. It ships with a model card that says what the model has and hasn't been measured on.
 
+## Beyond the code
+
+I train MMA, mostly BJJ and kickboxing. I used to produce music in my bedroom, and I took technical drawing at SMK, which is probably why draftdrill ended up being about it. What I'm most into now is AI: I want to study it at degree level and build my career around it.
+
 ## Stack
 
 **Web:** TypeScript · Next.js · React · Tailwind CSS · Prisma · Auth.js
@@ -24,4 +28,4 @@ A lot of my work is in private repositories, so this profile shows only part of 
 
 ## Contact
 
-[m.adamafzainizam@gmail.com](mailto:m.adamafzainizam@gmail.com) · +60 19-543 7406 · [LinkedIn](https://www.linkedin.com/in/adam-afzainizam/)
+[m.adamafzainizam@gmail.com](mailto:m.adamafzainizam@gmail.com) · +60 19-543 7406 · [LinkedIn](https://www.linkedin.com/in/adam-afzainizam/) · [Portfolio](https://adamafzainizam.github.io)
